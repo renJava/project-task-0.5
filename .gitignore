@@ -14,9 +14,14 @@
 # Mac
 .DS_Store
 
+# Windows 10 & PC
+*.ini
+*.lnk
+
 # Maven
 log/
 target/
 
 #Any
 .jpb
+
