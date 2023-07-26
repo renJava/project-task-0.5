@@ -1,2 +1,2 @@
-# project-task-0.5
+# Монолит
 Чисто учебный проект: БД, docker, Liquibase и пр.
