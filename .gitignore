@@ -14,9 +14,11 @@
 # Mac
 .DS_Store
 
-# Windows 10 & PC
+# Windows 10 & MyPC & Karen
 *.ini
 *.lnk
+*.url
+.gitignore
 
 # Maven
 log/
@@ -24,4 +26,5 @@ target/
 
 #Any
 .jpb
+
 
